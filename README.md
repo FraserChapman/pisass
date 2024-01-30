@@ -14,7 +14,7 @@ Usage
 
 Replace `<sass_version>` with the desired Sass version number (e.g. `1.70.0`).
 
-The script will download and install the specified Go version and set up the necessary environment variables. e.g.
+The script will download and install the specified Sass version and set up the necessary environment variables. e.g.
 
 ```
 ./get.sh 1.70.0
